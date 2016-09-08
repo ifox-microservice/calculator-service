@@ -1,4 +1,4 @@
-package com.ifox;
+package com.ifox.controller;
 
 import static org.springframework.web.bind.annotation.RequestMethod.GET;
 
